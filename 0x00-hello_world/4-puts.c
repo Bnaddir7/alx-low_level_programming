@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - Entry point
  * Descrip: A c program that with put function
  * Return: Always 0 (Success)

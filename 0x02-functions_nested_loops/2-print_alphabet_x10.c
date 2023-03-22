@@ -1,9 +1,12 @@
 #include "main.h"
 
 /**
- * main - Entry point.
- * Description: Function that prints 10 times the alphabet.
- * Return: Always 0.
+ * void - Print alphabet
+ *
+ * Description: Function that prints ten times the alphabet.
+ *
+ * Return: Always 0
+ *
  */
 
 void print_alphabet_x10(void)

@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  * main - Entry point.
  * Description: function that prints 10 times the alphabet.
  * Return: Always 0.

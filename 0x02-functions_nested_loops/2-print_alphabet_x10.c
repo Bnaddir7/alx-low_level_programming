@@ -2,9 +2,8 @@
 
 /**
  * main - Entry point.
- * Description: function that prints 10 times the alphabet.
+ * Description: Function that prints 10 times the alphabet.
  * Return: Always 0.
- *
  */
 
 void print_alphabet_x10(void)

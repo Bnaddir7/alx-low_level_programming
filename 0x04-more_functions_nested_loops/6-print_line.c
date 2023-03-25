@@ -14,7 +14,9 @@ void print_line(int n)
 	else
 	{
 		for (cht = 1; cht <= n; ++cht)
+		{
 			_putchar('_');
 			_putchar('\n');
+		}
 	}
 }

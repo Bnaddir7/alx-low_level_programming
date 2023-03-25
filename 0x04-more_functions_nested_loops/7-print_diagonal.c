@@ -18,6 +18,7 @@ void print_diagonal(int n)
 			for (s = 1; s <= p; ++s)
 				_putchar(' ');
 			_putchar(92);
+			_putchar('$');
 			_putchar('\n');
 		}
 	}

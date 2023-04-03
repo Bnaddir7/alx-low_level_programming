@@ -6,11 +6,13 @@
  */
 void print_to_98(int n)
 {
-	if (n = 0; n <=98) && (n++)
-	{
-		_putchar(n + 48);
-		_putchar(',');
-		_putchar(' ');
-	}
-	_putchar('\n');
+	int c;
+
+	if (n > 98)
+		for (c = n; c > 98; c--)
+			printf("%d, ", c);
+	else
+		for (c = n; c < 98; c++)
+			printf("%d, ", c);
+	printf("98\n");
 }
